@@ -19,6 +19,20 @@ https://youtu.be/HLz6XxhEsoQ
 
 ### Intro
 
+https://youtu.be/yBoJKA7CoLE
+
 ### Part 1
 
+https://youtu.be/2dMmpBXh1SQ
+
 ### Part 2
+
+https://youtu.be/8LjEYJIrMSA
+
+### Exercises
+
+https://youtu.be/mv_mliOlHT8
+
+### Solutions
+
+https://youtu.be/Hxl5AFbpOOs

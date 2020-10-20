@@ -40,3 +40,19 @@ https://youtu.be/mv_mliOlHT8
 ### Solutions
 
 https://youtu.be/Hxl5AFbpOOs
+
+## Section 4: cadCAD in Context
+
+* Lecture review copy v1: https://youtu.be/TpWZ9lMgtBE
+
+## Section 5: System Configuration
+
+* [Notebook](content/section-5-system-configuration/notebook.ipynb)
+
+* Lecture review copy v1: https://youtu.be/vqXuDCGHn9E
+
+## Section 6: System Analysis
+
+* [Notebook](content/section-6-system-analysis/notebook.ipynb)
+
+* Lecture review copy v1: https://youtu.be/wtBvwx2d7qw

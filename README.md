@@ -56,3 +56,9 @@ https://youtu.be/Hxl5AFbpOOs
 * [Notebook](content/section-6-system-analysis/notebook.ipynb)
 
 * Lecture review copy v1: https://youtu.be/wtBvwx2d7qw
+
+## Section 7: Capstone Project
+
+* [Notebook](content/section-7-capstone-project/notebook.ipynb)
+
+* Lecture review copy v1: https://youtu.be/tODFOHiEwec

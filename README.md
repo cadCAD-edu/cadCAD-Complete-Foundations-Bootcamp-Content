@@ -7,13 +7,17 @@ All YouTube videos are private, you'll need to provide us with your Google accou
 
 ## Section 2: Environment Setup
 
-### Intro
+* [Notebook](setup.ipynb)
 
-https://youtu.be/zmkYuuU63xE
+### Introduction to Environment Setup
 
-### Part 1
+* Current: https://youtu.be/gzFCQtodUX8
+* v1: https://youtu.be/zmkYuuU63xE
 
-https://youtu.be/HLz6XxhEsoQ
+### Environment Setup
+
+* Current: https://youtu.be/9P4NoAQTZys
+* v1: https://youtu.be/HLz6XxhEsoQ
 
 ## Section 3: Python Crash Course
 
@@ -43,6 +47,7 @@ https://youtu.be/Hxl5AFbpOOs
 
 ## Section 4: cadCAD in Context
 
+* Final: https://youtu.be/mW-MdHynS6s
 * Lecture review copy v1: https://youtu.be/TpWZ9lMgtBE
 
 ## Section 5: System Configuration

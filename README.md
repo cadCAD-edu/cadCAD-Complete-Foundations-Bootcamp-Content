@@ -48,7 +48,7 @@ https://youtu.be/Hxl5AFbpOOs
 ## Section 4: cadCAD in Context
 
 * Final: https://youtu.be/mW-MdHynS6s
-* v1: https://youtu.be/TpWZ9lMgtBE
+* Lecture review copy v1: https://youtu.be/TpWZ9lMgtBE
 
 ## Section 5: System Configuration
 

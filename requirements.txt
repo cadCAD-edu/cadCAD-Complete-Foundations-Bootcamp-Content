@@ -1,4 +1,4 @@
-cadCAD==0.4.21
+cadCAD==0.4.23
 jupyterlab==2.2.0
 matplotlib==3.3.0
 seaborn==0.10.1

@@ -1,4 +1,4 @@
-# cadCAD Complete Foundations Bootcamp
+# cadCAD Complete Foundations Bootcamp Content
 
 Welcome to the [cadCAD Complete Foundations Bootcamp](https://www.cadcad.education/course/bootcamp)! Here's what you'll find in this course folder:
 
